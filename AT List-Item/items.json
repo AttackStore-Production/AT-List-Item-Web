@@ -1,0 +1,1662 @@
+[
+  {
+    "spawn": "adamantium",
+    "label": "Adamantium",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "afk_coin",
+    "label": "AFK Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_aed",
+    "label": "[A] Aed",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_ammo",
+    "label": "[A] กระสุนลูกซองยาง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_armor",
+    "label": "[A] เกราะ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_coin",
+    "label": "Agency Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_drivetank",
+    "label": "[A] ถังดำนํ้า",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_fixkit",
+    "label": "[A] กล่องซ่อมรถ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_mre",
+    "label": "[A] MRE",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_shotgun",
+    "label": "[A] Shotgun",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_tesser",
+    "label": "[A] Tesser",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "agency_ticket",
+    "label": "Ticket หน่วยงาน",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ammo_box",
+    "label": "กระสุนยาง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ammo_box_pack",
+    "label": "กล่อง กระสุนยาง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "animal_feed",
+    "label": "[F] อาหารแกะ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "bootscard_farm1",
+    "label": "Boots งานขาว",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "bootscard_farm2",
+    "label": "Boots ฟาร์มทั่วไป",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "bootscard_farm3",
+    "label": "Boots ตกปลา",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_cargtb_14day",
+    "label": "รถเร็ว GTB [ 14 D ] ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_event",
+    "label": "Box Event",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm1_15day",
+    "label": "Gift Boots งานขาว [15 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm1_1day",
+    "label": "Gift Boots งานขาว [1 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm1_3day",
+    "label": "Gift Boots งานขาว [3 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm1_3hour",
+    "label": "Gift Boots งานขาว [3 H]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm1_6hour",
+    "label": "Gift Boots งานขาว [6 H]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm1_7day",
+    "label": "Gift Boots งานขาว [7 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm2_15day",
+    "label": "Gift Boots งานทั่วไป [15 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm2_1day",
+    "label": "Gift Boots งานทั่วไป [1 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm2_3day",
+    "label": "Gift Boots งานทั่วไป [3 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm2_3hour",
+    "label": "Gift Boots งานทั่วไป [3 H]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm2_6hour",
+    "label": "Gift Boots งานทั่วไป [6 H]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm2_7day",
+    "label": "Gift Boots งานทั่วไป [7 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm3_15day",
+    "label": "Gift Boots ตกปลา [15 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm3_1day",
+    "label": "Gift Boots ตกปลา [1 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm3_3day",
+    "label": "Gift Boots ตกปลา [3 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm3_3hour",
+    "label": "Gift Boots ตกปลา [3 H]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm3_6hour",
+    "label": "Gift Boots ตกปลา [6 H]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_farm3_7day",
+    "label": "Gift Boots ตกปลา [7 D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_fashionstart",
+    "label": "กล่องสุ่มแฟชั่นผู้เล่นใหม่",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_freecrawler7day",
+    "label": "Freecrawler 120KG [ 7 D ]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_mineral",
+    "label": "Mineral Box",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_mineralpm",
+    "label": "Premium Mineral Box",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_money",
+    "label": "Box Money",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_police7day",
+    "label": "กล่อง Police 7 [D]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_poolcuenewbie_14day",
+    "label": "PoolcueNewbie [ 14 D ]",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "box_store",
+    "label": "Box Store",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "bronze_coin",
+    "label": "Bronze Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "cap_a",
+    "label": "นํ้าตาล",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "cap_b",
+    "label": "ไซรัป",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "cap_c",
+    "label": "ไอซ์ซิ่ง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "cap_s_a",
+    "label": "ลูกอม",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "cap_s_b",
+    "label": "อมยิ้ม",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_car",
+    "label": "Trade Car Card",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_family",
+    "label": "บัตร Family",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_fashion",
+    "label": "Trade Fashion Card",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_join",
+    "label": "Join Card",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_leave",
+    "label": "Leave Card",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_mc",
+    "label": "บัตร MC",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_rentcar",
+    "label": "RentCar Card",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_reskin",
+    "label": "บัตรรีสกิน",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_unjail10",
+    "label": "บัตร UnJail 10 นาที",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "card_unjail30",
+    "label": "บัตร UnJail 30 นาที",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "carpart_a",
+    "label": "ล้อแม๊กซ์",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "carpart_b",
+    "label": "เครื่องยนต์",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "carpart_c",
+    "label": "โครงรถ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "carpart_d",
+    "label": "กล่อง ECU",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "cement",
+    "label": "ปูน",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "craft_box",
+    "label": "กล่องตีอาวุธ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "diving_gear",
+    "label": "Diving Gear",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "event_coin",
+    "label": "Event Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fail_coin",
+    "label": "Fail Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fertilizer",
+    "label": "ปุ๋ย",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fish_a",
+    "label": "ปลากระพง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fish_b",
+    "label": "ปลาโอดำ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fish_c",
+    "label": "ปลาเก๋าเพลิง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fishing_bait",
+    "label": "เหยื่อตกปลา",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fix_tool",
+    "label": "ประเเจซ่อม",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "food_a",
+    "label": "ซูชิ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "food_b",
+    "label": "ราเมง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fram_egg",
+    "label": "ไข่ไก่",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fram_garlic",
+    "label": "กระเทียม",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fram_oba",
+    "label": "โอบะ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fram_rice",
+    "label": "ข้าว",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fram_seaurchin",
+    "label": "หอยเม่น",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "fram_tomato",
+    "label": "มะเขือเทศ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_blackwork",
+    "label": "Gacha BlackWork",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_donate1",
+    "label": "Gacha Donate P1",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_economy",
+    "label": "Gacha Economy",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_event1",
+    "label": "Gacha Event",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_food",
+    "label": "Gacha Food",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_ic1",
+    "label": "Gacha IC",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_money",
+    "label": "Gacha Money",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_normal",
+    "label": "Gacha Nomal",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_part",
+    "label": "Gacha Part",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_promote",
+    "label": "Gacha Promote",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gacha_supply",
+    "label": "Gacha Supply",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "glove_lv1",
+    "label": "[F] เร่งการเจริญเติบโต",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "gold_coin",
+    "label": "Gold Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "horn_gold",
+    "label": "Gold Horn",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "horn_silver",
+    "label": "Silver Horn",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "jrob",
+    "label": "จอบ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "key_safe",
+    "label": "กุญแจเซฟ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "lilly",
+    "label": "ลิลลี่",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "lockpick",
+    "label": "LockPick",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "m_lilly",
+    "label": "เมล็ดลิลลี่",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "m_sunflower",
+    "label": "เมล็คทานตะวัน",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "m_tulip",
+    "label": "เมล็ดทิวลิป",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "market_p",
+    "label": "ตระกร้ารวม",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "medkit",
+    "label": "Medkit",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mre",
+    "label": "MRE",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_aed",
+    "label": "Aed",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_aedpack",
+    "label": "Pack Aed",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_armor",
+    "label": "Armor",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_armorpack",
+    "label": "Pack Armor",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_fixkit",
+    "label": "กล่องซ่อมรถ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_fixkit_ag",
+    "label": "กล่องซ่อมรถ หน่วยงาน",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_painkiller",
+    "label": "Painkiller",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_painkiller_agency",
+    "label": "[A] Painkiller",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "mz_painkillerpack",
+    "label": "Pack Painkiller",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "newmzplayer_box",
+    "label": "กล่องผู้เล่นใหม่ MZ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ore_bronze",
+    "label": "Bronze Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ore_gold",
+    "label": "Gold Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ore_iron",
+    "label": "Iron Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ore_platinum",
+    "label": "Platinum Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ore_silver",
+    "label": "Silver Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ore_titanium",
+    "label": "Titanium Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "pack_scrap",
+    "label": "Pack Ingot",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "pack_wood",
+    "label": "Pack Wood",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ped_lv1",
+    "label": "[F] เร่งการเจริญเติบโต T",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "phone",
+    "label": "Iphone 17",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "radio",
+    "label": "วิทยุ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "random_wheel",
+    "label": "Random Card",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "rod",
+    "label": "เบ็ดตกปลา",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "scrap_a",
+    "label": "เศษเหล็ก",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "scrap_b",
+    "label": "เหล็กแท่ง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "silver_coin",
+    "label": "Silver Coin",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "soju",
+    "label": " โซจู",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "speaker",
+    "label": "ลำโพง",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "stone",
+    "label": "Stone",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "stone_a",
+    "label": "Stone Scrap",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "sunflower",
+    "label": "ทานตะวัน",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "syringe",
+    "label": "เข็มฉีดยา",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ticket_weapon",
+    "label": "Ticket Weapon +1",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ticket_weapon_k",
+    "label": "Ticket Weapon Knife +1",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "ticket_weapon_p",
+    "label": "Ticket Weapon Poolcue +1",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "tulip",
+    "label": "ทิวลิป",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_admin_armshile",
+    "label": "Admin Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_council_armshile",
+    "label": "Council Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_medical_armshile",
+    "label": "Medic Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_newplayer_armshile",
+    "label": "NewPlayer Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_police_armshile",
+    "label": "Police Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_protect_armshile",
+    "label": "Protect Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_serverboostl_armshile",
+    "label": "ServerBoots Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_story_armshile",
+    "label": "Story Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_streamer_armshile",
+    "label": "Streamer Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "un_london_traveller_armshile",
+    "label": "Traveller Armshile",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "vibranium",
+    "label": "Vibranium",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "vipcard_farm1",
+    "label": "Vip งานขาว",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "vipcard_farm2",
+    "label": "Vip ทั่วไป",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "vipcard_farm3",
+    "label": "Vip ตกปลา",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "watering_can",
+    "label": "บัวรดน้ำ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "wine",
+    "label": "ไวน์",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "wood_a",
+    "label": "ท่อนไม้",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "wood_b",
+    "label": "แผ่นไม้",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "wool",
+    "label": "ขนแกะ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  },
+  {
+    "spawn": "wool_baby",
+    "label": "ลูกแกะ",
+    "gift": false,
+    "drop": false,
+    "use": false,
+    "trunk": false,
+    "trade": false,
+    "limit": ""
+  }
+]

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Attack Item Manager By Dev Kim</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Item Manager</h1>
+
+<div class="toolbar">
+<button onclick="addItem()">➕ เพิ่ม</button>
+<button onclick="removeSelected()">🗑 ลบ</button>
+<button onclick="saveJSON()">💾 Save JSON</button>
+</div>
+
+<table>
+
+<thead>
+<tr>
+<th>☑</th>
+<th>ลำดับ</th>
+<th>Spawn</th>
+<th>Label</th>
+<th>Gift</th>
+<th>ทิ้งได้</th>
+<th>เข้าเซิฟ</th>
+<th>ท้ายรถ</th>
+<th>Trade</th>
+<th>Limit</th>
+</tr>
+</thead>
+
+<tbody id="itemList"></tbody>
+
+</table>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
